@@ -1,6 +1,0 @@
-h1 {
-    background-color: #326a7a; /* Hexadecimal */
-    border: 3px solid hsla(270, 50%, 45%, 1); /* Hue, Saturation, Lightness, Alpha (opacity) */
-    box-shadow: 3px 3px 3px aquamarine; /* Keyword */
-    color: rgba(0, 255, 127, 0.9); // Red, Green, Blue, Alpha (opacity)
-  }
